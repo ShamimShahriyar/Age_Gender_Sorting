@@ -7,7 +7,7 @@ sudo apt install python3-tk
 pip install opencv-python tensorflow keras deepface numpy tqdm 
 FOR NVIDIA GPU
 pip install tensorflow[and-cuda]
-Rns on 4GB VRAM
+Runs on 4GB VRAM
 ![image](https://github.com/user-attachments/assets/c6abca06-a573-4e40-b63a-f4cd12a413a7)
 
 Output Window:
